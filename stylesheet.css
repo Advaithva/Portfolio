@@ -46,7 +46,8 @@ nav li {
 	padding:0.2cm 0.5cm;
 	display: inline-block;
 	text-align: center;
-
+	color:#fff;
+	text-decoration:none;
 }
 
 
