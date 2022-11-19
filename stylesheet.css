@@ -172,7 +172,7 @@ td, th {
 
 }
 
-.skills {
+.skills, .otherskills {
 	padding:0 0.6cm;
 	font-size:24px;
 }
