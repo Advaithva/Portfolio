@@ -159,22 +159,11 @@ nav li:hover {
 
 }
 
+td, th {
+	width:25%;
+}
+
 .skills {
-	column-count: 3;
-	column-gap: 0.6cm;
-	column-rule-style: solid;
-	column-rule-width: 1px;
-	column-rule-color: black;
+	padding:0 0.6cm;
 	font-size:24px;
-	padding-left:0.6cm;
-	padding-right:0.6cm;
-	
-	
 }
-
-.skhead {
-	column-span:3;
-}
-
-
-
