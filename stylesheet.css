@@ -161,6 +161,10 @@ nav li:hover {
 
 .skills {
 	column-count: 3;
+	column-gap: 0.6cm;
+	column-rule-style: solid;
+	column-rule-width: 1px;
+	column-rule-color: black;
 	
 }
 
