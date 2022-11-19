@@ -94,6 +94,7 @@ nav li:hover {
 	font-size:32px;
 	padding-top:1cm;
 	font-family:Bell MT;
+	background-image:linear-gradient(to center, white, white, white, lightblue);
 }
 
 
