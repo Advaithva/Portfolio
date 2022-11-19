@@ -180,3 +180,8 @@ table, th, td {
 	height:1cm;
 	width: 1cm;
 }
+
+
+.langspan {
+	text-align:left;
+}
