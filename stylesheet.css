@@ -132,22 +132,30 @@ nav li:hover {
 
 
 @keyframes intro_h2 {
-  0%   {color:#005cb8;}
+  0%  {color:black;}
   33%  {color:#aaaaff;}
   66%  {color:#0000aa;}
-  100%  {color:black;}
+  100%   {color:#005cb8;}
+  
 
 
 }
+
+
+
 
 @keyframes intro_h3 {
-  0%  {color:#0000aa;}
-  33%   {color:#005cb8;}
-  66%  {color:#aaaaff;}
-  100%  {color:black;}
+  0%  {color:black;}
+  33%  {color:#aaaaff;}
+  66%  {color:#0000aa;}
+  100%   {color:#005cb8;}
+  
 
 
 }
+
+
+
 
 @keyframes intro_h4 {
   0%  {color:black;}
