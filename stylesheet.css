@@ -161,9 +161,17 @@ nav li:hover {
 
 td, th {
 	width:25%;
+
 }
 
 .skills {
 	padding:0 0.6cm;
 	font-size:24px;
+}
+
+table, th, td {
+	text-align:center;
+	border:solid black 1px;
+	padding:25px;
+	border-collapse:collapse;
 }
