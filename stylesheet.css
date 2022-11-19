@@ -166,7 +166,8 @@ nav li:hover {
 	column-rule-width: 1px;
 	column-rule-color: black;
 	font-size:24px;
-	padding:0, 0.6cm;
+	padding-left:0.6cm;
+	padding-right:0.6cm;
 	
 	
 }
