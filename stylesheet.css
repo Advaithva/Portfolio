@@ -175,3 +175,8 @@ table, th, td {
 	padding:25px;
 	border-collapse:collapse;
 }
+
+.lang {
+	height:1cm;
+	width: 1cm;
+}
