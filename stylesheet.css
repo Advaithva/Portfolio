@@ -93,10 +93,21 @@ nav li:hover {
 .intro {
 	font-size:32px;
 	padding-top:1cm;
+	font-family:Bell MT;
 }
 
 
 .introh2 {
 	color:#005cb8;
-	font-family:Bell MT;
+
 }
+
+.intro h3 {
+	
+	color:#0000aa;
+	
+	
+}
+
+
+
