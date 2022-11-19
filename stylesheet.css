@@ -112,6 +112,8 @@ nav li:hover {
 	
 	color:#0000aa;
 	animation-name:intro_h3;
+	animation-duration:3s;
+  	animation-iteration-count: infinite;
 	
 }
 
@@ -119,6 +121,8 @@ nav li:hover {
 .intro h4 {
 	color:#000;
 	animation-name:intro_h4;
+	animation-duration:3s;
+  	animation-iteration-count: infinite;
 	
 }
 
