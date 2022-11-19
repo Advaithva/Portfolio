@@ -168,6 +168,9 @@ nav li:hover {
 	
 }
 
+.skhead {
+	column-span:3;
+}
 
 
 
