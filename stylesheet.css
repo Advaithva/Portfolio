@@ -99,23 +99,56 @@ nav li:hover {
 
 .introh2 {
 	color:#005cb8;
+	animation-name:intro_h2;
+	animation-duration:3s;
+  	animation-iteration-count: infinite;
+}
+
+
 
 }
 
 .intro h3 {
 	
 	color:#0000aa;
+	animation-name:intro_h3;
 	
 }
 
 
 .intro h4 {
 	color:#000;
+	animation-name:intro_h4;
 	
 }
 
 
 
 
+@keyframes intro_h2 {
+  0%   {color:#005cb8;}
+  33%  {color:#aaaaff;}
+  66%  {color:#0000aa;}
+  100%  {color:black;}
 
+
+}
+
+@keyframes intro_h3 {
+  0%   {color:#005cb8;}
+  33%  {color:#aaaaff;}
+  66%  {color:#0000aa;}
+  100%  {color:black;}
+
+
+}
+
+@keyframes intro_h4 {
+  0%   {color:#005cb8;}
+  33%  {color:#aaaaff;}
+  66%  {color:#0000aa;}
+  100%  {color:black;}
+
+
+}
 
