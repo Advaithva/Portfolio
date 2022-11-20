@@ -165,46 +165,14 @@ nav li:hover {
 
 }
 
-td, th {
-	width:25%;
-
-}
-
-.skills, .otherskills {
-	padding:0 0.6cm;
-	font-size:24px;
-}
-
-table, th, td {
-
-	border:solid black 1px;
-	padding:25px;
-	border-collapse:collapse;
-}
-
-.lang {
+.resumebutton {
+	background-color:#005cbf;
+	color:#fff;
 	height:1cm;
-	width: 1cm;
+	width:2cm;
+	padding:10px;
+	
 }
-
-
-.spanlang {
-	text-align:left;
-}
-
-
-
-td {
-	font-size:20px;
-	font-family:Monotype Corsiva;
-
-
-}
-
-th {
-	text-align:center;
-}
-
 
 
 
