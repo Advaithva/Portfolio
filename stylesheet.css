@@ -171,19 +171,20 @@ nav li:hover {
 	height:1.5cm;
 	width:3cm;
 	padding:10px;
-	box-shadow: 4px 4px 0 4px #000011;
+	box-shadow: 4px 4px 0 4px #555;
 	border-radius:15px;
 	
 }
 
 
 .resumebutton:hover {
-	background-color:#000095;
+	background-color:#0044af;
 }
 
 
 .resumebutton:active {
 	box-shadow:none;
+	transform: translateY(4px);
 	
 }
 
