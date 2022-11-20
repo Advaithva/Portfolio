@@ -184,7 +184,7 @@ nav li:hover {
 }
 
 
-@keyframes box-hover {
+@keyframes box_hover {
   0%  {background-color:red;}
   20%  {background-color:orange;}
   40%  {background-color:yellow;}
