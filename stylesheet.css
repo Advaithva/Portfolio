@@ -178,13 +178,35 @@ nav li:hover {
 
 
 .resumebutton:hover {
-	background-color:#0044af;
+	animation-name:box_hover;
+	animation-duration:1s;
+	animation-iteration:infinite;
+}
+
+
+@keyframes box-hover {
+  0%  {background-color:red;}
+  10%  {background-color:orange;}
+  20%  {background-color:yellow;}
+  30%   {background-color:yellowgreen;}
+  40%  {background-color:lightgreen;}
+  50%  {background-color:green;}
+  60%  {background-color:skyblue;}
+  70%   {background-color:blue;}
+  80%  {background-color:magenta;}
+  90%  {background-color:pink;}
+  100%  {background-color:black;}
+  
+  
+
+
 }
 
 
 .resumebutton:active {
 	box-shadow:none;
 	transform: translateY(4px);
+	transform: translateX(4px);
 	
 }
 
