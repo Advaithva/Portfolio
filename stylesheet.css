@@ -171,7 +171,7 @@ nav li:hover {
 	height:3cm;
 	width:5cm;
 	padding:10px;
-	box-shadow: 5px 5px 0 5px #050845;
+	box-shadow: 4px 4px 0 4px #000011;
 	
 }
 
@@ -182,7 +182,8 @@ nav li:hover {
 
 
 .resumebutton:active {
-	box-shadow:0;
+	box-shadow:none;
+	
 }
 
 
