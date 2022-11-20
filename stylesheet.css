@@ -186,16 +186,12 @@ nav li:hover {
 
 @keyframes box-hover {
   0%  {background-color:red;}
-  10%  {background-color:orange;}
-  20%  {background-color:yellow;}
-  30%   {background-color:yellowgreen;}
-  40%  {background-color:lightgreen;}
-  50%  {background-color:green;}
-  60%  {background-color:skyblue;}
-  70%   {background-color:blue;}
-  80%  {background-color:magenta;}
-  90%  {background-color:pink;}
-  100%  {background-color:black;}
+  20%  {background-color:orange;}
+  40%  {background-color:yellow;}
+  60%  {background-color:green;}
+  80%  {background-color:skyblue;}
+	100% {background-color:black;}
+
   
   
 
