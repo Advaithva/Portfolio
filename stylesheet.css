@@ -178,7 +178,7 @@ td, th {
 }
 
 table, th, td {
-	text-align:center;
+
 	border:solid black 1px;
 	padding:25px;
 	border-collapse:collapse;
@@ -202,5 +202,13 @@ td {
 
 
 }
+
+th {
+	text-align:center;
+}
+
+
+
+
 
 
