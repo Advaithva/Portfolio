@@ -92,10 +92,8 @@ nav li:hover {
 
 .intro {
 	font-size:32px;
-	padding-top:1cm;
-	padding-bottom:1cm;
 	font-family:Bell MT;
-	background-image:radial-gradient(circle, lightblue, #fffffe, white, #fffffe, white);
+	
 }
 
 
