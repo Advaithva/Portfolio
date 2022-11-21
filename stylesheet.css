@@ -224,12 +224,12 @@ nav li:hover {
 
 
 @font-face {
-  font-family: Monserrat;
-  src: url();
+  font-family: Montserrat;
+  src: url(Montserrat.zip);
 }
 
 .resume {
-  font-family: Monserrat;
+  font-family: Montserrat;
 	
 }
 
