@@ -192,52 +192,53 @@ nav li:hover {
 
 
 @keyframes box_hover {
-  0%  {
+  	0%  {
 	
-	.resume h2, .resume span, .resume input {
-	visibility: hidden;
-	  }
+		.resume h2, .resume span, .resume input {
+				visibility: hidden;
+	 	 }
 	  
 	}
 	
 	
-  20%  {
+ 	20%  {
 	
-	  .resume h2 {
-		  visibility: visible;
-	
-	}
-	
-  40%  {
-	  .l1 {
-		  visibility: visible;
-	  }
+	  	.resume h2 {
+		  	visibility: visible;
+		}
 	
 	}
 	
-  60%  {
+  	40%  {
+	  	.l1 {
+		  	visibility: visible;
+	  	}
 	
-	  . l2 {
-	visibility: visible;	  
+	}
+	
+  	60%  {
+	
+	  	. l2 {
+		visibility: visible;	  
 		  
-	  }
+	 	 }
 	
 	}
 	
-  80%  {
-	 .l3 {
+ 	 80%  {
+	 	.l3 {
 		 
-	visibility: visible;	 
+			visibility: visible;	 
 		 
-	  }
+	 	 }
 	
 	}
 	
-  100% {
+  	100% {
 	
-	  .resume input {
-		  visibility: visible;
-	  }
+		  .resume input {
+			  visibility: visible;
+		  }
 	
 	}
 	
