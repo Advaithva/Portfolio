@@ -220,7 +220,64 @@ font-style: normal;
 }
 
 
+div img {
+   height:5cm;
+   width:7.7cm;
+   outline:black solid 1px;
+   margin-bottom:40px;
+}
 
+
+a {
+   padding:20px;
+   height:10cm;
+   border:3px solid black;
+   margin:25px;
+   float:left;
+   width:33%;
+   background-image:url(https://advaithva.github.io/My-train-pics/image/image.png);
+   background-blend-mode:lighten;
+   background-color:rgba(255, 255, 255, 0.6);
+   background-position:center;
+   text-decoration:none;
+
+}
+
+div {
+   color:#000;
+}
+
+div p {
+   padding:0, 10px;
+  animation-name: example;
+  animation-duration:3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  0%   {color:red;}
+  10%  {color:orange;}
+  20%  {color:yellow;}
+  30%  {color:green;}
+  40% {color:cyan;}
+  50%   {color:lightblue;}
+  60%  {color:blue;}
+  70%  {color:purple;}
+  80%  {color:pink;}
+  90% {color:white;}
+  100% {color:black;}
+
+}
+
+
+a:hover {
+   background-color:rgba(100, 100, 100, 0.62);
+}
+
+
+.row {
+   display:flex;
+}
 
 
 
