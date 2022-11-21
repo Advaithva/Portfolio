@@ -284,7 +284,7 @@ nav li:hover {
 }
 
 
-.resume h2:hover, .resume span:hover, .resume input:hover {
+.resume:hover {
 
 	animation-name:box_hover;
 	animation-duration:5s;
