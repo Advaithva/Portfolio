@@ -99,7 +99,12 @@ nav li:hover {
 
 .intro {
 	font-size:32px;
-	font-family:helvetica;
+	
+	font-family: montserrat, sans-serif;
+
+	font-weight: 100;
+
+	font-style: normal;
 	
 }
 
@@ -203,7 +208,7 @@ nav li:hover {
 .resume {
 	
 	font-size:24px;
-	font-family:monaco;
+	font-family:helvetica;
 	margin:0 3cm;
 
 }
@@ -212,7 +217,7 @@ nav li:hover {
 
 .webpages, .photos {
 	padding:0 0.6cm;
-	fon-tfamily:Cambria;
+	font-family:Cambria;
 }
 
 
