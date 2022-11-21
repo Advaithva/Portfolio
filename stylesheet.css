@@ -220,7 +220,7 @@ font-style: normal;
 }
 
 
-div img {
+.webpages img {
    height:5cm;
    width:7.7cm;
    outline:black solid 1px;
@@ -228,7 +228,7 @@ div img {
 }
 
 
-a {
+.webpages a {
    padding:20px;
    height:10cm;
    border:3px solid black;
@@ -243,11 +243,11 @@ a {
 
 }
 
-div {
+.webpages {
    color:#000;
 }
 
-div p {
+.webpages p {
    padding:0, 10px;
   animation-name: example;
   animation-duration:3s;
@@ -270,7 +270,7 @@ div p {
 }
 
 
-a:hover {
+.webpages a:hover {
    background-color:rgba(100, 100, 100, 0.62);
 }
 
