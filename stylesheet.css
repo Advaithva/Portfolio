@@ -171,7 +171,7 @@ nav li:hover {
 	height:1.5cm;
 	width:3cm;
 	padding:10px;
-	box-shadow: 4px 4px 0 4px #000010;
+	box-shadow: 4px 4px 0 0 #000010;
 	border-radius:15px;
 	
 }
