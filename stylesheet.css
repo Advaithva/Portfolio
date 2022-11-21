@@ -24,6 +24,7 @@ header h1 {
 body {
 
 	margin:0;
+	font-family:Montserrat;
 }
 
 nav {
@@ -206,7 +207,6 @@ font-style: normal;
 .resume {
 	
 	font-size:24px;
-	font-family:helvetica;
 	margin:0 3cm;
 
 }
@@ -215,7 +215,6 @@ font-style: normal;
 
 .webpages, .photos {
 	padding:0 0.6cm;
-	font-family:Cambria;
 	font-size:24px;
 }
 
