@@ -223,6 +223,15 @@ nav li:hover {
 }
 
 
+@font-face {
+  font-family: Monserrat;
+  src: url();
+}
+
+.resume {
+  font-family: Monserrat;
+	
+}
 
 
 
