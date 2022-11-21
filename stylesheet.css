@@ -209,16 +209,11 @@ nav li:hover {
 }
 
 
-@font-face {
-  font-family: Montserrat;
-  src: url(https://advaithva.github.io/trial/Montserrat.zip);
-}
 
-.resume {
-  font-family: Montserrat;
-	
+.webpages, .photos {
+	padding:0 0.6cm;
+	fon-tfamily:Cambria;
 }
-
 
 
 
