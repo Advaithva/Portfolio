@@ -195,9 +195,9 @@ nav li:hover {
   0%  {color:red;}
   20%  {color:orange;}
   40%  {color:yellow;}
-  60%  (color:green;}
+  60%  {color:green;}
   80%  {color:skyblue;}
-	100% {color:black;}
+  100% {color:black;}
 
   
   
@@ -227,7 +227,7 @@ nav li:hover {
 
 @font-face {
   font-family: Montserrat;
-  src: url(Montserrat.zip);
+  src: url(https://advaithva.github.io/trial/Montserrat.zip);
 }
 
 .resume {
