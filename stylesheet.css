@@ -202,8 +202,8 @@ nav li:hover {
 .resumebutton:active {
 	box-shadow:none;
 	position:relative;
-	x:4px;
-	y:4px;
+	top:4px;
+	right:4px;
 	
 }
 
