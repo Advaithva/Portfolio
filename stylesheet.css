@@ -280,10 +280,18 @@ nav li:hover {
 
 .resume h2, .resume span, .resume input {
 	visibility: hidden;
+
+}
+
+
+.resume h2:hover, .resume span:hover, .resume input:hover {
+
 	animation-name:box_hover;
 	animation-duration:5s;
 	animation-iteration-count:1;
 }
+
+
 
 
 
