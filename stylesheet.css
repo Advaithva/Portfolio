@@ -203,7 +203,7 @@ nav li:hover {
 	box-shadow:none;
 	position:relative;
 	top:4px;
-	right:4px;
+	left:4px;
 	
 }
 
@@ -211,7 +211,7 @@ nav li:hover {
 	
 	font-size:24px;
 	font-family:monaco;
-	width:75%;
+	margin:0 3cm;
 	
 }
 
