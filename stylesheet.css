@@ -92,7 +92,7 @@ nav li:hover {
 
 .intro {
 	font-size:32px;
-	font-family:montserrat regular;
+	font-family:helvetica;
 	
 }
 
@@ -202,7 +202,8 @@ nav li:hover {
 .resumebutton:active {
 	box-shadow:none;
 	position:relative;
-	
+	x:4px;
+	y:4px;
 	
 }
 
