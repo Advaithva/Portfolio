@@ -191,64 +191,6 @@ nav li:hover {
 }
 
 
-@keyframes box_hover {
-  	0%  {
-	
-		.resume h2, .resume span, .resume input {
-				visibility: hidden;
-	 	 }
-	  
-	}
-	
-	
- 	20%  {
-	
-	  	.resume h2 {
-		  	visibility: visible;
-		}
-	
-	}
-	
-  	40%  {
-	  	.l1 {
-		  	visibility: visible;
-	  	}
-	
-	}
-	
-  	60%  {
-	
-	  	. l2 {
-		visibility: visible;	  
-		  
-	 	 }
-	
-	}
-	
- 	 80%  {
-	 	.l3 {
-		 
-			visibility: visible;	 
-		 
-	 	 }
-	
-	}
-	
-  	100% {
-	
-		  .resume input {
-			  visibility: visible;
-		  }
-	
-	}
-	
-
-  
-  
-
-
-}
-
 
 .resumebutton:active {
 	box-shadow:none;
@@ -278,18 +220,6 @@ nav li:hover {
 }
 
 
-.resume h2, .resume span, .resume input {
-	visibility: hidden;
-
-}
-
-
-.resume:hover {
-
-	animation-name:box_hover;
-	animation-duration:5s;
-	animation-iteration-count:1;
-}
 
 
 
