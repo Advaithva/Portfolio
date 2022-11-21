@@ -185,19 +185,19 @@ nav li:hover {
 
 
 .resumebutton:hover {
-	animation-name:box_hover;
-	animation-duration:1s;
-	animation-iteration:infinite;
+	background-color:#0045ad;
+	
+	
 }
 
 
 @keyframes box_hover {
-  0%  {background-color:red;}
-  20%  {background-color:orange;}
-  40%  {background-color:yellow;}
-  60%  {background-color:green;}
-  80%  {background-color:skyblue;}
-	100% {background-color:black;}
+  0%  {color:red;}
+  20%  {color:orange;}
+  40%  {color:yellow;}
+  60%  (color:green;}
+  80%  {color:skyblue;}
+	100% {color:black;}
 
   
   
@@ -219,7 +219,9 @@ nav li:hover {
 	font-size:24px;
 	font-family:monaco;
 	margin:0 3cm;
-	
+	animation-name:box_hover;
+	animation-duration:1s;
+	animation-iteration-count:infinite;
 }
 
 
