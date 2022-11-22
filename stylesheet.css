@@ -176,7 +176,7 @@ font-style: normal;
 
 }
 
-.button {
+.resume span {
 	background-color:#005cbf;
 	color:#fff;
 	font-size:18px;
@@ -189,7 +189,7 @@ font-style: normal;
 }
 
 
-.button:hover {
+.resume span:hover {
 	background-color:#0045ad;
 	
 	
@@ -197,7 +197,7 @@ font-style: normal;
 
 
 
-.button:active {
+.resume span:active {
 	box-shadow:none;
 	position:relative;
 	top:5px;
