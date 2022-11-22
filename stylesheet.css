@@ -234,7 +234,7 @@ font-style: normal;
 }
 
 
-.webpages a {
+.weba {
    padding:20px;
    height:10cm;
    border:3px solid black;
@@ -277,7 +277,7 @@ font-style: normal;
 }
 
 
-.webpages a:hover {
+.weba:hover {
    background-color:rgba(100, 100, 100, 0.62);
 }
 
