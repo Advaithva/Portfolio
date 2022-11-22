@@ -183,7 +183,7 @@ font-style: normal;
 	height:1.5cm;
 	width:3cm;
 	padding:10px;
-	box-shadow: 4px 4px 0 0 #000010;
+	box-shadow: 5px 5px 0 0 #000010;
 	border-radius:15px;
 	
 }
@@ -200,8 +200,8 @@ font-style: normal;
 .resumebutton:active {
 	box-shadow:none;
 	position:relative;
-	top:4px;
-	left:4px;
+	top:5px;
+	left:5px;
 	
 }
 
