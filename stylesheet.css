@@ -176,12 +176,12 @@ font-style: normal;
 
 }
 
-.resumebutton {
+.button {
 	background-color:#005cbf;
 	color:#fff;
 	font-size:18px;
 	height:1.5cm;
-	width:3cm;
+	width:4cm;
 	padding:10px;
 	box-shadow: 5px 5px 0 0 #000010;
 	border-radius:15px;
@@ -189,7 +189,7 @@ font-style: normal;
 }
 
 
-.resumebutton:hover {
+.button:hover {
 	background-color:#0045ad;
 	
 	
@@ -197,7 +197,7 @@ font-style: normal;
 
 
 
-.resumebutton:active {
+.button:active {
 	box-shadow:none;
 	position:relative;
 	top:5px;
