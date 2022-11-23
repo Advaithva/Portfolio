@@ -218,7 +218,7 @@ font-style: normal;
 
 
 
-.webpages, .photos {
+.webpages, .photos, .cubecoll {
 	padding:0 0.6cm;
 	font-size:24px;
 }
@@ -321,7 +321,7 @@ box-sizing: border-box;
 
 
 
-.slide-container {
+.cubecoll .slide-container {
 
 display: flex;
 
@@ -337,7 +337,7 @@ position: relative;
 
 }
 
-.slide-container .slide {
+.cubecoll .slide-container .slide {
 
 display: none;
 
@@ -345,21 +345,21 @@ width: 100%;
 
 }
 
-.slide-container .slide.fade {
+.cubecoll .slide-container .slide.fade {
 
 animation: fade 0.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
 
 }
 
-.slide-container .slide img {
+.cubecoll .slide-container .slide img {
 
 width: 100%;
 
 }
 
-.slide-container .prev,
+.cubecoll .slide-container .prev,
 
-.slide-container .next {
+.cubecoll .slide-container .next {
 
 cursor: pointer;
 
@@ -397,19 +397,19 @@ color: white;
 
 }
 
-.slide-container .prev {
+.cubecoll .slide-container .prev {
 
 left: 2px;
 
 }
 
-.slide-container .next {
+.cubecoll .slide-container .next {
 
 right: 2px;
 
 }
 
-.dots-container {
+.cubecoll .dots-container {
 
 display: flex;
 
@@ -421,7 +421,7 @@ padding: 10px;
 
 }
 
-.dots-container .dot {
+.cubecoll .dots-container .dot {
 
 cursor: pointer;
 
@@ -439,13 +439,17 @@ background-color: #dfd6ce;
 
 }
 
-.dots-container .dot.active {
+.cubecoll .dots-container .dot.active {
 
 border: 2px solid green;
 
 }
 
 
-
+.cubecoll img, .photos img {
+	height:3cm;
+	width:5cm;
+}
+	
 
 
