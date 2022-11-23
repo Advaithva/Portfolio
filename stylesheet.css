@@ -381,3 +381,8 @@ svg:hover {
   to {opacity: 1}
 }
 
+
+.cubecoll img, .photos img {
+	height:4cm;
+	width:7cm;
+}
