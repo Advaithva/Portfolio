@@ -331,13 +331,13 @@ svg:hover {
 
 /* Position the "next button" to the right */
 .next {
-  margin-left:20cm;
+  margin-right:5cm;
   border-radius: 3px 0 0 3px;
 }
 
 
 .prev {
-	mergin-right:20cm;
+	mergin-left:5cm;
 }
 
 /* On hover, add a black background color with a little bit see-through */
