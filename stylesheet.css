@@ -332,14 +332,14 @@ svg:hover {
 /* Position the "next button" to the right */
 .next {
   position:absolute;
-	right:110px;
+	right:3cm;
   border-radius: 3px 0 0 3px;
 }
 
 
 .prev {
 	position:absolute;
-	left:110px;
+	left:3cm;
 	
 }
 
@@ -366,7 +366,7 @@ svg:hover {
   padding: 8px 12px;
   position: absolute;
   top: 0;
-  left:110px;
+  left:3cm;
 }
 
 /* The dots/bullets/indicators */
