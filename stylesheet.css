@@ -363,6 +363,7 @@ svg:hover {
   padding: 8px 12px;
   position: absolute;
   top: 0;
+  left:100px;
 }
 
 /* The dots/bullets/indicators */
