@@ -301,9 +301,7 @@ svg:hover {
 }
 
 /* Hide the images by default */
-.mySlides {
-  display: none;
-}
+
 
 /* Next & previous buttons */
 .prev, .next {
@@ -334,7 +332,7 @@ svg:hover {
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: #eeeeff;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -345,7 +343,7 @@ svg:hover {
 
 /* Number text (1/3 etc) */
 .numbertext {
-  color: #f2f2f2;
+  color: #eeeeff;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
