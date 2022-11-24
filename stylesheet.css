@@ -332,14 +332,14 @@ svg:hover {
 /* Position the "next button" to the right */
 .next {
   position:absolute;
-	right:0;
+	right:110px;
   border-radius: 3px 0 0 3px;
 }
 
 
 .prev {
 	position:absolute;
-	left:0;
+	left:110px;
 	
 }
 
