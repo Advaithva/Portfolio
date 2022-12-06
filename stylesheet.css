@@ -8,6 +8,12 @@
 }
 
 
+
+.bgcli:hover {
+	background-color:#2356b9;
+}
+
+
 header h1 {
 	color:#259bff;
 	letter-spacing:5px;
@@ -65,10 +71,6 @@ nav li {
 }
 
 
-nav li:hover {
-	border-bottom:#99bbff solid 1px;
-	color:#99bbff;
-}
 
 
 
@@ -101,6 +103,13 @@ nav li:hover {
 	border:1px solid black;
 	
 
+}
+
+
+
+.lastliofnav li:hover {
+	border-bottom:#abcdef;
+	
 }
 
 
