@@ -266,11 +266,14 @@ font-style: normal;
    background-size:cover;
    text-decoration:none;
    border-radius:10px;
+	transition:height 2s, width 2s;
+	transition-timing-function: ease;
 
 }
 
 .webpages {
    color:#000;
+   background-image:linear-gradient(#ddddff, #eee, #fff);
 }
 
 .webpages p {
@@ -298,6 +301,8 @@ font-style: normal;
 
 .weba:hover {
    background-color:rgba(100, 100, 100, 0.62);
+	height:12cm;
+	width:33.5%;
 }
 
 
