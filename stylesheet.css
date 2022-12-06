@@ -307,6 +307,7 @@ font-style: normal;
 
 .resume svg {
 	transition: width 2s, height 2s;
+	transition-timing-function: ease;
 }
 
 .resume svg:hover {
