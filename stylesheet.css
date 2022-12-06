@@ -266,7 +266,7 @@ font-style: normal;
    background-size:cover;
    text-decoration:none;
    border-radius:10px;
-	transition:height 2s, width 2s;
+	transition:height 1.5s, width 1.5s;
 	transition-timing-function: ease;
 
 }
