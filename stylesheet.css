@@ -306,7 +306,7 @@ font-style: normal;
 }
 
 .resume svg {
-	transition: width 2s, height 2s;
+	transition: width 1s, height 1s;
 	transition-timing-function: ease;
 }
 
