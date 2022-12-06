@@ -305,7 +305,11 @@ font-style: normal;
    display:flex;
 }
 
-svg:hover {
+.resume svg {
+	transition: width 2s, height 2s;
+}
+
+.resume svg:hover {
 	height:20px;
 	width:20px;
 }
