@@ -26,7 +26,7 @@ body {
 	line-height:3em;
 	overflow:scroll;
 	background-image:url(https://st2.depositphotos.com/3032657/5270/v/450/depositphotos_52709581-stock-illustration-vintage-greeting-cards-with-floral.jpg);
-	
+	width:100%;
 	background-position:center;
 	background-blend-mode: lighten;
 	background-color: rgba(50,108,225,0.62);
@@ -214,7 +214,7 @@ font-style: normal;
 	
 	font-size:24px;
 	padding:1cm 3cm;
-	background-image:url(https://Advaithva.github.io/trial/blue-shapes.png);
+	background-image:url();
 	background-size:cover;
 	background-position:center;
 	background-blend-mode: lighten;
