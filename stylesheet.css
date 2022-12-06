@@ -303,7 +303,7 @@ font-style: normal;
    background-color:rgba(100, 100, 100, 0.62);
 	height:12cm;
 	width:33.5%;
-	box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.5), 0 30px 30px 0 rgba(0, 0, 0, 5);
+	box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.45), 0 30px 30px 0 rgba(0, 0, 0, 0.45);
 }
 
 
