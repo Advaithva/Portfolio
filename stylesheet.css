@@ -9,8 +9,10 @@
 
 
 
-.bgcli:hover {
+nav li:hover {
 	color:#abbcff;
+	border-bottom:#abbcff;
+	
 }
 
 
