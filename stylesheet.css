@@ -3,12 +3,7 @@
 .headingh1 {
 	margin:0;
 	font-size:50px;
-	background-image:url(https://st2.depositphotos.com/3032657/5270/v/450/depositphotos_52709581-stock-illustration-vintage-greeting-cards-with-floral.jpg);
-	background-size:cover;
 	padding:50px 0;
-	background-position:center;
-	background-blend-mode: lighten;
-	background-color: rgba(50,108,225,0.62);
 	color:#5837ff;
 }
 
@@ -25,6 +20,16 @@ body {
 
 	margin:0;
 	font-family:Montserrat;
+	color:#5837ff;
+	background-attachment:fixed;
+	border:1px solid black;
+	line-height:3em;
+	overflow:scroll;
+	background-image:url(https://st2.depositphotos.com/3032657/5270/v/450/depositphotos_52709581-stock-illustration-vintage-greeting-cards-with-floral.jpg);
+	
+	background-position:center;
+	background-blend-mode: lighten;
+	background-color: rgba(50,108,225,0.62);
 }
 
 nav {
