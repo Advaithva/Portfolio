@@ -214,9 +214,7 @@ font-style: normal;
 	
 	font-size:24px;
 	padding:1cm 3cm;
-	background-image:url();
-	background-size:cover;
-	background-position:center;
+	background-image:linear-gradient(#fff, #eee, #ddddff);
 	background-blend-mode: lighten;
 	background-color: rgba(50,108,225,0.62);
 }
