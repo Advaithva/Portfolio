@@ -461,17 +461,14 @@ svg {
 
 
 
-.footer-list li {
-	float:right;
-
-}
 			
-			.github {
+.github {
 	color:#fff;
 
 }
 
 .floatr {
 	float:right;
+	margin:0;
 }
 
