@@ -469,6 +469,9 @@ svg {
 
 form {
 	float:right;
+	position:relative;
+	top:1cm;
+	right:1cm;
 }
 
 .feedback input {
