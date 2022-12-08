@@ -470,7 +470,7 @@ svg {
 
 form {
 	float:right;
-	
+	background-image:linear-gradient(#fff, #eee, #ddddff);
 	width:10cm;
 	
 }
