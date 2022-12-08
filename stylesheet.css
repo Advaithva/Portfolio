@@ -478,6 +478,6 @@ form {
 }
 
 .feedback input {
-	accent-color:#ccccff;
+	border-radius:10px;
 }
 
