@@ -102,6 +102,8 @@ header span {
 
 .sidenav a {
   padding: 8px 8px 8px 32px;
+  border:1px solid #ddd;
+	font-size:18px;
   text-decoration: none;
   font-size: 25px;
   color: #818181;
