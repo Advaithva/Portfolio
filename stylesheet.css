@@ -36,6 +36,7 @@ body {
 	line-height:3em;
 	overflow:scroll;
 	background-image:url(https://advaithva.github.io/Portfolio/memphis-blue-background-with-halftone-line-elements_1017-33622.webp);
+	background-width:100%;
 	width:100%;
 	background-position:center;
 	background-blend-mode: lighten;
