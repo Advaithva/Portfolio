@@ -52,7 +52,7 @@ nav {
     padding: 0 20px;
     width: 100%;
     background-blend-mode:lighten;
-    background-color: rgba(11,10, 15, 0.7);
+    background-color: rgba(11,10, 15, 0.8);
     position:fixed;
     top:0;
     left:0;
@@ -96,7 +96,7 @@ header span {
   top: 0;
   right: 0;
   background-blend-mode:lighten;
-  background-color:rgba(11, 11, 11, 0.7);
+  background-color:rgba(11, 11, 11, 0.8);
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
