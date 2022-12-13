@@ -96,7 +96,7 @@ header span {
   top: 0;
   right: 0;
   background-blend-mode:lighten;
-  background-color:rgba(11, 11, 11, 0.8);
+  background-color:rgba(11, 11, 11, 0.9);
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
