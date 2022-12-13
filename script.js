@@ -34,3 +34,15 @@ function closeNav() {
 }
 
 
+function LOAD() {
+  
+  alert("Loading...");
+  
+}
+
+function WELCOME() {
+  
+  alert("Welcome to my Portfolio 👋🏻");
+  
+}
+
