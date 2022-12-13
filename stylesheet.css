@@ -260,6 +260,8 @@ font-style: normal;
    outline:black solid 1px;
    margin-bottom:40px;
    border-radius:10px;
+	transition:height 1.5s, width 1.5s;
+	transition-timing-function: ease;
 	
 }
 
@@ -318,6 +320,9 @@ font-style: normal;
 	box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.45), 0 30px 30px 0 rgba(0, 0, 0, 0.45);
 }
 
+.weba:hover .weba img {
+	height:6cm;
+	width:9cm;
 
 .row {
    display:flex;
