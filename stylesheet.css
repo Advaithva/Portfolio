@@ -324,6 +324,10 @@ font-style: normal;
 	height:6cm;
 	width:9cm;
 
+}
+
+
+
 .row {
    display:flex;
 }
