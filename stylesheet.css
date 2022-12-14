@@ -540,6 +540,11 @@ form {
               font-size:10px;
           
         }
+	
+	.webpages, .photos, .cubecoll {
+		padding:0.5cm 0.1cm;
+		font-size:12px;
+	}
   
         
   
@@ -572,6 +577,11 @@ form {
                 font-size:16px;
                 
         }
+	
+	.webpages, .photos, .cubecoll {
+		padding:0.8cm 0.3cm;
+		font-size:16px;
+	}
         
         .introh3, .introh2, .intro h4 {
                 
