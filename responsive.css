@@ -19,6 +19,12 @@
           
         }
   
+        nav li {
+                
+              font-size:10px;
+          
+        }
+  
         
   
 }
@@ -45,6 +51,11 @@
                 
         }
         
+        nav li {
+                
+                font-size:16px;
+                
+        }
         
   
 }
