@@ -546,7 +546,11 @@ form {
 		font-size:12px;
 	}
   
-        
+        .webimg {
+		height:2.5cm;
+		width:4cm;
+		
+	}
   
 }
 
