@@ -19,6 +19,12 @@
           
         }
   
+        .introh3, .introh2, .intro h4 {
+                
+                font-size:15px;       
+                
+        }
+  
         nav li {
                 
               font-size:10px;
@@ -54,6 +60,12 @@
         nav li {
                 
                 font-size:16px;
+                
+        }
+        
+        .introh3, .introh2, .intro h4 {
+                
+                font-size:28px;       
                 
         }
         
