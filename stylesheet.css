@@ -272,7 +272,7 @@ font-style: normal;
    border:3px solid black;
    margin:25px;
    float:left;
-   width:33%;
+   
    background-image:url(https://advaithva.github.io/My-train-pics/image/image.png);
    background-blend-mode:lighten;
    background-color:rgba(255, 255, 255, 0.6);
@@ -602,3 +602,15 @@ form {
 	}
   
 }
+
+@media (mex-width: 2000px) {
+	
+	.weba {
+		
+		width:33%;
+		
+	}
+	
+}
+
+
