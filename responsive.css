@@ -1,12 +1,46 @@
 @media (max-width: 480px) {
   
-  
+        body {
+                
+                font-size:12px;
+                
+        }
+        
+        .headingh1 {
+                
+                font-size:28px;
+                
+        }
+        
+        .weba {
+                
+                width:100%;
+                height:5cm;
   
 }
 
 
 @media (max-width: 1000px) {
   
-  
+        body {
+                
+                font-size:18px;
+                
+        }
+        
+        .headingh1 {
+                
+                font-size:40px;
+                
+        }
+        
+        .weba {
+                
+                width:50%;
+                height:8cm;
+                
+        }
+        
+        
   
 }
