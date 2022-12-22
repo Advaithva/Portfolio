@@ -244,6 +244,7 @@ font-style: normal;
 	background-image:linear-gradient(#fff, #eee, #ddddff);
 	background-blend-mode: lighten;
 	background-color: rgba(50,108,225,0.62);
+	opacity:0.8;
 }
 
 
@@ -288,6 +289,7 @@ font-style: normal;
 .webpages {
    color:#000;
    background-image:linear-gradient(#ddddff, #eee, #fff);
+	opacity:0.8;
 }
 
 .webpages p {
