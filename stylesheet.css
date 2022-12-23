@@ -289,6 +289,7 @@ font-style: normal;
 .webpages {
    color:#000;
    background-image:linear-gradient(#ddddff, #eee, #fff);
+	background-color: rgba(50,108,225,0.62);
   
 }
 
@@ -297,7 +298,7 @@ font-style: normal;
   animation-name: example;
   animation-duration:3s;
   animation-iteration-count: infinite;
-	background-color: rgba(50,108,225,0.62);
+	
 }
 
 @keyframes example {
